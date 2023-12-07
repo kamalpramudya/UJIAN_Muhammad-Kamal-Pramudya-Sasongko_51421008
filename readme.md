@@ -16,10 +16,10 @@ sumber: https://dev.to/envoy_/150-badges-for-github-pnk
 3. Bootstrap V.5
 
 # Installation
-1. Buat Folder di htdocs dengan nama projectJwd.
+1. Buat Folder di htdocs dengan nama Project.
 2. Jalankan Xampp control panel.
 3. Start tombol apache.
-4. Buka browser ketikan url localhost/ProjectJwd
+4. Buka browser ketikan url localhost/Project
 
 # Struktur Folder
 ```php
